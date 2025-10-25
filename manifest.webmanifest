@@ -1,0 +1,84 @@
+{
+  "name": "DINO DASH",
+  "short_name": "DINO DASH",
+  "id": "com.europeancitytech.dinodash",
+  "description": "💰 Win Gift Cards or Cash Prizes — Turn Gaming into a Side Hustle!\nPlay skill-based games, climb the leaderboard, and earn real rewards — whether it's cash prizes in Sri Lanka or digital gift cards globally. Compete weekly, stay on top, and make your game time fun and rewarding.\n\n🎮 About the Game\nDINO DASH is a fast-paced endless runner where you control a daring dino sprinting across a scorching desert. Dodge obstacles, leap over cacti, and test your reflexes as you race to beat your high score. Simple, addictive, and perfect for quick gaming fun—how far can your dino dash?\n\n⚠️ Important Eligibility Notes\n🔹Players who are registered with ECT Games (www.europeancitytech.com/registration) with matching GDevelop Account's Usernames will accepted for the leaderboard and qualify for rewards.\n🔹Sri Lankan Players: Eligible for cash prizes.\n🔹International Players: Eligible for digital gift cards.\n🔹Players under 18 must have parental consent to participate.\n\n📢 Stay Informed & Play Fair\n🔹 Check our Events page to see which competitions are live or coming up next.\n🔹 New leaderboard rounds launch weekly — don’t miss your shot at winning!\n🔹 Review our updated Rules & Regulations page to ensure you're eligible for prizes.\n\n🧠 FAQs\nQ1: How do I qualify for rewards?\nYou must be registered in ECT Games (www.europeancitytech.com/registration) and your GDevelop Account's Username must match your ECT Games registration.\n\nQ2: Who can win cash prizes?\nOnly Sri Lankan players are eligible for cash rewards.\n\nQ3: What do international players receive?\nPlayers outside Sri Lanka are rewarded with digital gift cards.\n\nQ4: Can players under 18 years old join for the Events?\nYes, but only with parental consent.\n\n🕹️ Controls\nPC/Laptops: Up Arrow Key to Jump and Down Arrow Key to Dash\nMobile Devices: Touch Top-Screen to Jump and Bottom-Screen to Dash\n\n💡 Play fair. Stay active. Win real prizes — only on ECT Games.",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "fda925bc4c96a59f5d4b63137a43dddb537ec02c22132249340b75739eed07d9-ios-icon-20.png.png",
+        "sizes": "20x20"
+      },{
+        "src": "35ca139162077ef596f8eb4555d90d13c4cbbbf5b0128077a2e0f1208d147c49-ios-icon-29.png.png",
+        "sizes": "29x29"
+      },{
+        "src": "6900b559077b43fcaf1d7e5ef4e9e6b7083aa2b5076631f5af52df98e48b71c8-android-icon-36.png.png",
+        "sizes": "36x36"
+      },{
+        "src": "ce53a2a28db6971eb696c9bec09b45760fd351d77dfbffb133a06999d3699f8b-ios-icon-40.png.png",
+        "sizes": "40x40"
+      },{
+        "src": "4b96308b50babefe93acbdd52ec84b33800a15bc9763a24e1228d398a6fab8df-android-icon-48.png.png",
+        "sizes": "48x48"
+      },{
+        "src": "4d7331c3d764626f49a65bd60476865fb27d2e98a60d331c0972461511b6eb99-ios-icon-50.png.png",
+        "sizes": "50x50"
+      },{
+        "src": "f7d6cfb0d7d5a8218767e5e8d334292ad06a01cb4de9dcdf6242ff81ddf0ef6a-ios-icon-57.png.png",
+        "sizes": "57x57"
+      },{
+        "src": "84cdf5d4409b1effacecbd9b8433980aef630c751d3d9319de504e4739639150-ios-icon-58.png.png",
+        "sizes": "58x58"
+      },{
+        "src": "ad9b236efe4c1669377c180cdc70bb3f702271b077fd0d4983ed2945572278f5-ios-icon-60.png.png",
+        "sizes": "60x60"
+      },{
+        "src": "923592deb4d174d91e60e1494cd8f9a53e705f00d3fbae22ab2fa16b3a6adcb8-android-icon-72.png.png",
+        "sizes": "72x72"
+      },{
+        "src": "44863f95f7e213129b69af9bad2ac62efbbab7b3fd5fac603f18610413f7c5b5-ios-icon-76.png.png",
+        "sizes": "76x76"
+      },{
+        "src": "c3496c39c393ace7f61805cec08108763647a527267bf99a37e1b8218f0bc3dd-ios-icon-80.png.png",
+        "sizes": "80x80"
+      },{
+        "src": "c367895a329761608da97967cb76d2a86dda0e636afc0b6bbc8829f164bd3542-ios-icon-87.png.png",
+        "sizes": "87x87"
+      },{
+        "src": "4579b21ebec8269788cef60870242fbe658b19205a3242fac42be0aabbfccc22-android-icon-96.png.png",
+        "sizes": "96x96"
+      },{
+        "src": "8ba9ceb3ae7a373d35ee7cfa2c54532e4a8d75f7cdf340abe2c8ba6fbdb8e02f-ios-icon-100.png.png",
+        "sizes": "100x100"
+      },{
+        "src": "b49a0bb214e33c67cf534356725c9c2d54b6b670b821008cb1b32462494e39af-ios-icon-114.png.png",
+        "sizes": "114x114"
+      },{
+        "src": "e871748c65e3d99570fe77f8fbe6a56d072bac6c5c00dda58270ecf1cdd72cdc-ios-icon-120.png.png",
+        "sizes": "120x120"
+      },{
+        "src": "21d7d1794136d3f301e8866ba8edcb43adc26ee03f2004a26b0ee360954315ca-android-icon-144.png.png",
+        "sizes": "144x144"
+      },{
+        "src": "8d2ebd0eeca36427f08ee9b251a0020e72b57eb77725f66833d4db2af48711e9-ios-icon-152.png.png",
+        "sizes": "152x152"
+      },{
+        "src": "707530e4ac986327595321f45399669b7f2c0c5eaeb811f2fff567c02c1ca087-ios-icon-167.png.png",
+        "sizes": "167x167"
+      },{
+        "src": "ee1436bfac84421b16d7cb438ac2ffd88a23719968f8dde7f13ed1b0d86e44b1-ios-icon-180.png.png",
+        "sizes": "180x180"
+      },{
+        "src": "979235c24fcd426b2c586311108bbbcada9e1f5775614998c6481da44b191b5c-android-icon-192.png.png",
+        "sizes": "192x192"
+      },{
+        "src": "5f565e95be244e3f5af84e2765f64e0408c0ef4b4449f14b212a7f4f75b9371c-desktop-icon-512.png.png",
+        "sizes": "512x512"
+      },{
+        "src": "e305c9abc7195be619e440f91ffff652d83f8a9c785235bf1ea369bf8aba1f09-ios-icon-1024.png.png",
+        "sizes": "1024x1024"
+      }]
+}
